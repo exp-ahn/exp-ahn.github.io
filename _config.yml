@@ -16,7 +16,7 @@ timezone: Asia/Seoul
 
 title: Ahn's Blog # the main title
 
-tagline: 나의 기억력을 믿지 못해서 작성하는 블로그 🙃 # it will display as the sub-title
+tagline: 나의 기억력을 믿지 못해서 <br> 작성하는 블로그 🙃 # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
